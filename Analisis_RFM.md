@@ -16,6 +16,6 @@ Los clientes frecuentes muestran un mayor grado de lealtad y compromiso con la e
 - Por ejemplo, los clientes pueden clasificarse como "Mejores clientes" 
 - si tienen alta recencia, frecuencia y monetización, o como "Clientes en riesgo" si su recencia es baja y no han realizado compras recientes.
 
--Esta segmentación permite a las empresas adaptar sus estrategias de marketing y gestión de clientes 
+- Esta segmentación permite a las empresas adaptar sus estrategias de marketing y gestión de clientes 
 para dirigirse de manera más efectiva a cada grupo, ofreciendo ofertas personalizadas, 
 incentivos o programas de fidelización para maximizar el valor de cada cliente.
